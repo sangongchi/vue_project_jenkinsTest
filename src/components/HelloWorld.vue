@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <p>自动化构建 github项目试验</p>
+    <p>test jenkins is success</p>
   </div>
 </template>
 
